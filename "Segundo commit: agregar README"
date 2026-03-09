@@ -1,0 +1,3 @@
+Proyecto: Tabla de multiplicar usando ciclo for
+Autor: dacosta29
+Descripcion: El usuario ingresa un numero y el sistema muestra la tabla del 1 al 10
